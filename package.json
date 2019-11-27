@@ -1,0 +1,44 @@
+{
+    "name": "vscode-theme-orangedark",
+    "displayName": "Orange Dark Theme",
+    "description": "Orange Dark Theme based on Atom",
+    "version": "0.1.0",
+    "publisher": "chentan",
+    "license": "MIT",
+    "galleryBanner": {
+		"color": "#282C34",
+		"theme": "dark"
+	},
+    "engines": {
+       "vscode": "^1.12.0"
+    },
+    "categories": [
+    "Themes"
+    ],
+    "keywords": [
+        "atom",
+        "theme",
+        "dark",
+        "one dark",
+        "orange dark"
+    ],
+    "icon": "icon.png",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Orange Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/OneDark.json"
+            }
+        ]
+    },
+    "bugs": {
+        "url": "https://github.com/cttaohua/vscode-theme-orangedark/issues",
+        "email": "muddibr@gmail.com"
+    },
+    "homepage": "https://github.com/cttaohua/vscode-theme-orangedark",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/cttaohua/vscode-theme-orangedark"
+    }
+}
