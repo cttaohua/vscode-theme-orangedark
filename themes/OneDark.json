@@ -138,7 +138,7 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "foreground": "#61AFEF"
+        "foreground": "#D19A66"
       }
     },
     {
@@ -147,7 +147,7 @@
         "keyword.other.unit"
       ],
       "settings": {
-        "foreground": "#D19A66"
+        "foreground": "#3fc5f0"
       }
     },
     {
@@ -185,7 +185,7 @@
         "constant"
       ],
       "settings": {
-        "foreground": "#D19A66"
+        "foreground": "#3fc5f0"
       }
     },
     {
@@ -194,7 +194,7 @@
         "constant.variable"
       ],
       "settings": {
-        "foreground": "#D19A66"
+        "foreground": "#3fc5f0"
       }
     },
     {
@@ -212,7 +212,7 @@
         "constant.numeric"
       ],
       "settings": {
-        "foreground": "#D19A66"
+        "foreground": "#3fc5f0"
       }
     },
     {
@@ -326,7 +326,7 @@
         "punctuation.definition.identity"
       ],
       "settings": {
-        "foreground": "#61AFEF"
+        "foreground": "#D19A66"
       }
     },
     {
@@ -402,7 +402,7 @@
         "support.function.any-method"
       ],
       "settings": {
-        "foreground": "#61AFEF"
+        "foreground": "#D19A66"
       }
     },
     {
@@ -411,7 +411,7 @@
         "entity.name.function"
       ],
       "settings": {
-        "foreground": "#61AFEF"
+        "foreground": "#D19A66"
       }
     },
     {
@@ -430,7 +430,7 @@
         "entity.name.section"
       ],
       "settings": {
-        "foreground": "#61AFEF"
+        "foreground": "#D19A66"
       }
     },
     {
@@ -448,7 +448,7 @@
         "entity.other.attribute-name"
       ],
       "settings": {
-        "foreground": "#D19A66"
+        "foreground": "#3fc5f0"
       }
     },
     {
@@ -457,7 +457,7 @@
         "entity.other.attribute-name.id"
       ],
       "settings": {
-        "foreground": "#61AFEF"
+        "foreground": "#D19A66"
       }
     },
     {
@@ -503,7 +503,7 @@
         "meta.link"
       ],
       "settings": {
-        "foreground": "#D19A66"
+        "foreground": "#3fc5f0"
       }
     },
     {
@@ -512,7 +512,7 @@
         "meta.require"
       ],
       "settings": {
-        "foreground": "#61AFEF"
+        "foreground": "#D19A66"
       }
     },
     {
@@ -587,7 +587,7 @@
         "markup.bold"
       ],
       "settings": {
-        "foreground": "#D19A66",
+        "foreground": "#3fc5f0",
         "fontStyle": "bold"
       }
     },
@@ -634,7 +634,7 @@
         "markup.heading punctuation.definition.heading"
       ],
       "settings": {
-        "foreground": "#61AFEF"
+        "foreground": "#D19A66"
       }
     },
     {
@@ -661,7 +661,7 @@
         "markup.quote"
       ],
       "settings": {
-        "foreground": "#D19A66"
+        "foreground": "#3fc5f0"
       }
     },
     {
@@ -717,7 +717,7 @@
         "source.css property-value.support"
       ],
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#3fc5f0"
       }
     },
     {
@@ -735,7 +735,7 @@
         "source.gfm link entity"
       ],
       "settings": {
-        "foreground": "#61AFEF"
+        "foreground": "#D19A66"
       }
     },
     {
@@ -889,7 +889,7 @@
         "source.python variable.parameter"
       ],
       "settings": {
-        "foreground": "#D19A66"
+        "foreground": "#3fc5f0"
       }
     },
     {
@@ -945,7 +945,7 @@
       "name": "[VSCODE-CUSTOM] Support Constant",
       "scope": "support.constant",
       "settings": {
-        "foreground": "#D19A66"
+        "foreground": "#3fc5f0"
       }
     },
     {
@@ -1148,7 +1148,7 @@
         "meta.array-binding-pattern-variable.tsx variable.other.readwrite.tsx"
       ],
       "settings": {
-        "foreground": "#D19A66"
+        "foreground": "#3fc5f0"
       }
     },
     {
@@ -1170,7 +1170,7 @@
         "variable.other.constant.property.tsx"
       ],
       "settings": {
-        "foreground": "#D19A66"
+        "foreground": "#3fc5f0"
       }
     },
     {
@@ -1258,7 +1258,7 @@
         "variable.other.constant.tsx"
       ],
       "settings": {
-        "foreground": "#D19A66"
+        "foreground": "#3fc5f0"
       }
     },
     {
@@ -1398,7 +1398,7 @@
         "variable.other.constant.object.tsx"
       ],
       "settings": {
-        "foreground": "#D19A66"
+        "foreground": "#3fc5f0"
       }
     },
     {
@@ -1460,14 +1460,14 @@
       "name": "[VSCODE-CUSTOM] Python Constants",
       "scope": "source.python constant",
       "settings": {
-        "foreground": "#D19A66"
+        "foreground": "#3fc5f0"
       }
     },
     {
       "name": "[VSCODE-CUSTOM] Python Placeholder Character",
       "scope": "constant.character.format.placeholder.other.python storage",
       "settings": {
-        "foreground": "#D19A66"
+        "foreground": "#3fc5f0"
       }
     },
     {
@@ -1481,7 +1481,7 @@
       "name": "[VSCODE-CUSTOM] Python Meta Function Parameters",
       "scope": "meta.function.parameters.python",
       "settings": {
-        "foreground": "#D19A66"
+        "foreground": "#3fc5f0"
       }
     },
     {
@@ -1537,7 +1537,7 @@
       "name": "[VSCODE-CUSTOM] CSharp Property",
       "scope": "entity.name.variable.property.cs",
       "settings": {
-        "foreground": "#61AFEF"
+        "foreground": "#D19A66"
       }
     },
     {
@@ -1579,7 +1579,7 @@
       "name": "[VSCODE-CUSTOM] Css Punctuation Definition Constant",
       "scope": "punctuation.definition.constant.css",
       "settings": {
-        "foreground": "#D19A66"
+        "foreground": "#3fc5f0"
       }
     },
     {
@@ -1593,14 +1593,14 @@
       "name": "[VSCODE-CUSTOM] Sass Punctuation for constants",
       "scope": "punctuation.definition.constant.scss",
       "settings": {
-        "foreground": "#D19A66"
+        "foreground": "#3fc5f0"
       }
     },
     {
       "name": "[VSCODE-CUSTOM] Sass Punctuation for key-value",
       "scope": "meta.property-list.scss punctuation.separator.key-value.scss",
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#3fc5f0"
       }
     },
     {
@@ -1635,7 +1635,7 @@
       "name": "[VSCODE-CUSTOM] Markdown Punctuation Definition Bold",
       "scope": "punctuation.definition.bold.markdown",
       "settings": {
-        "foreground": "#D19A66"
+        "foreground": "#3fc5f0"
       }
     },
     {
@@ -1695,7 +1695,7 @@
         "string.other.link.description.markdown"
       ],
       "settings": {
-        "foreground": "#61AFEF"
+        "foreground": "#D19A66"
       }
     },
     {
@@ -1709,7 +1709,7 @@
       "name": "[VSCODE-CUSTOM] Ruby Other Constant Variable",
       "scope": "variable.other.constant.ruby",
       "settings": {
-        "foreground": "#D19A66"
+        "foreground": "#3fc5f0"
       }
     },
     {

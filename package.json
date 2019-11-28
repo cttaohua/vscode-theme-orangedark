@@ -2,7 +2,7 @@
     "name": "vscode-theme-orangedark",
     "displayName": "Orange Dark Theme",
     "description": "Orange Dark Theme based on Atom",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "publisher": "chentan",
     "license": "MIT",
     "galleryBanner": {
